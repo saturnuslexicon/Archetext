@@ -1,0 +1,268 @@
+[
+  {
+    "type": "Scene",
+    "scene_number": 1,
+    "title": "Olivia Confronts Max",
+    "location": "EXT. COUNTRY ROAD \u2013 NIGHT",
+    "characters": [
+      "Olivia",
+      "Max"
+    ],
+    "keywords": [
+      "infidelity",
+      "confrontation",
+      "emotional tension",
+      "breakup"
+    ],
+    "text": "OLIVIA confronts MAX about his infidelity. The tension builds until she demands to be let out of the car and walks off into the night."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 2,
+    "title": "Jai and Her Father",
+    "location": "INT. JAI\u2019S KITCHEN \u2013 NIGHT",
+    "characters": [
+      "Jai",
+      "Her Dad"
+    ],
+    "keywords": [
+      "family",
+      "concern",
+      "foreshadowing",
+      "quiet danger"
+    ],
+    "text": "JAI packs food and chats with her DAD, who warns her about working at quiet places."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 3,
+    "title": "Jai Arrives at Work",
+    "location": "EXT. GAS STATION \u2013 NIGHT",
+    "characters": [
+      "Jai",
+      "Mr. Hugo"
+    ],
+    "keywords": [
+      "mundane",
+      "shift start",
+      "vampire policy",
+      "cynicism"
+    ],
+    "text": "JAI arrives at Benny\u2019s Gas Station, clocks in, and chats briefly with MR. HUGO. A TV in the background discusses vampiric integration."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 4,
+    "title": "The Attack",
+    "location": "INT./EXT. GAS STATION \u2013 NIGHT",
+    "characters": [
+      "Jai",
+      "V-Head #1",
+      "V-Head #2",
+      "Unknown Vampire"
+    ],
+    "keywords": [
+      "vampire attack",
+      "first encounter",
+      "mystery",
+      "shock"
+    ],
+    "text": "A vampire attacks outside the gas station. V-HEAD #2 is fed on, the vampire disappears, and Jai is left in shock."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 5,
+    "title": "Sheriff Arrives",
+    "location": "EXT. GAS STATION \u2013 MOMENTS LATER",
+    "characters": [
+      "Sheriff Darius"
+    ],
+    "keywords": [
+      "investigation",
+      "no evidence",
+      "cover-up",
+      "mystery"
+    ],
+    "text": "SHERIFF DARIUS arrives and finds no sign of struggle or victim, only wind."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 6,
+    "title": "Ebony Transforms",
+    "location": "EXT. HOSPITAL PARKING LOT \u2013 NIGHT",
+    "characters": [
+      "Ebony"
+    ],
+    "keywords": [
+      "transformation",
+      "double life",
+      "duality",
+      "sex work"
+    ],
+    "text": "EBONY transitions from nurse to dancer, prepping her gear in the hospital parking lot."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 7,
+    "title": "Ebony Performs",
+    "location": "INT. THE CUBICLE STRIP CLUB \u2013 NIGHT",
+    "characters": [
+      "Ebony",
+      "Valentine"
+    ],
+    "keywords": [
+      "performance",
+      "introduction",
+      "power",
+      "magnetism"
+    ],
+    "text": "EBONY takes the stage at The Cubicle. VALENTINE watches her from the crowd with intense interest."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 8,
+    "title": "VIP Encounter",
+    "location": "INT. VIP ROOM \u2013 LATER",
+    "characters": [
+      "Ebony",
+      "Valentine"
+    ],
+    "keywords": [
+      "intimacy",
+      "mystery",
+      "transaction",
+      "vampire"
+    ],
+    "text": "EBONY and VALENTINE converse privately. He gives her $10,000 to simply talk, signaling deeper interest."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 9,
+    "title": "Frat House Party",
+    "location": "INT. FRAT HOUSE \u2013 NIGHT",
+    "characters": [
+      "Ashlee",
+      "Sophia"
+    ],
+    "keywords": [
+      "youth",
+      "tension",
+      "belonging",
+      "party"
+    ],
+    "text": "ASHLEE guides SOPHIA through the crowded frat party. Sophia feels out of place."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 10,
+    "title": "Olivia\u2019s Ride",
+    "location": "EXT. BACK ROAD \u2013 NIGHT",
+    "characters": [
+      "Olivia",
+      "Driver"
+    ],
+    "keywords": [
+      "mystery",
+      "comfort",
+      "transition",
+      "foreshadowing"
+    ],
+    "text": "OLIVIA gets into a mysterious Uber. The DRIVER gives her cryptic but kind advice."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 11,
+    "title": "Roommates",
+    "location": "INT. EBONY\u2019S BEDROOM \u2013 EARLY MORNING",
+    "characters": [
+      "Jai",
+      "Ebony"
+    ],
+    "keywords": [
+      "sisterhood",
+      "money",
+      "resentment",
+      "support"
+    ],
+    "text": "JAI and EBONY discuss their living arrangement. Tension and love coexist between them."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 12,
+    "title": "DMACC Learns About V",
+    "location": "INT. TRAP LOUNGE \u2013 NIGHT",
+    "characters": [
+      "DMACC",
+      "Local Customer"
+    ],
+    "keywords": [
+      "drug culture",
+      "curiosity",
+      "temptation",
+      "V"
+    ],
+    "text": "DMACC hears rumors about V, a vampire-related drug. He seems intrigued."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 13,
+    "title": "DMACC at The Cubicle",
+    "location": "INT. THE CUBICLE \u2013 NIGHT",
+    "characters": [
+      "DMACC"
+    ],
+    "keywords": [
+      "observation",
+      "club",
+      "setting up future conflict"
+    ],
+    "text": "DMACC enters the strip club and surveys the scene. He is watching, learning."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 14,
+    "title": "DMACC Alone",
+    "location": "INT. DMACC\u2019S BEDROOM \u2013 NIGHT",
+    "characters": [
+      "DMACC"
+    ],
+    "keywords": [
+      "reflection",
+      "text message",
+      "V temptation"
+    ],
+    "text": "DMACC reflects alone and receives a text about V. He seems ready to act."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 15,
+    "title": "Sophia\u2019s Abduction",
+    "location": "EXT. FRAT HOUSE \u2013 NIGHT",
+    "characters": [
+      "Sophia"
+    ],
+    "keywords": [
+      "danger",
+      "abduction",
+      "supernatural threat"
+    ],
+    "text": "SOPHIA is abducted outside the frat house. The threat is real and present."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 16,
+    "title": "Ritual in the Woods",
+    "location": "EXT. UNKNOWN WOODS \u2013 NIGHT",
+    "characters": [
+      "Elder",
+      "Young Member"
+    ],
+    "keywords": [
+      "resistance",
+      "ritual",
+      "anti-integration",
+      "symbolism"
+    ],
+    "text": "A ritual is performed by hooded figures. They denounce integration. A young member kneels before the fire."
+  }
+]

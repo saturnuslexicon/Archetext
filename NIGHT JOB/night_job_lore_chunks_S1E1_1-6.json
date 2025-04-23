@@ -1,0 +1,104 @@
+[
+  {
+    "type": "Scene",
+    "scene_number": 1,
+    "title": "Olivia Confronts Max",
+    "location": "EXT. COUNTRY ROAD \u2013 NIGHT",
+    "characters": [
+      "Olivia",
+      "Max"
+    ],
+    "keywords": [
+      "infidelity",
+      "confrontation",
+      "emotional tension",
+      "breakup"
+    ],
+    "text": "OLIVIA confronts MAX about his infidelity. The tension builds until she demands to be let out of the car and walks off into the night."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 2,
+    "title": "Jai and Her Father",
+    "location": "INT. JAI\u2019S KITCHEN \u2013 NIGHT",
+    "characters": [
+      "Jai",
+      "Her Dad"
+    ],
+    "keywords": [
+      "family",
+      "concern",
+      "foreshadowing",
+      "quiet danger"
+    ],
+    "text": "JAI packs food and chats with her DAD, who warns her about working at quiet places."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 3,
+    "title": "Jai Arrives at Work",
+    "location": "EXT. GAS STATION \u2013 NIGHT",
+    "characters": [
+      "Jai",
+      "Mr. Hugo"
+    ],
+    "keywords": [
+      "mundane",
+      "shift start",
+      "vampire policy",
+      "cynicism"
+    ],
+    "text": "JAI arrives at Benny\u2019s Gas Station, clocks in, and chats briefly with MR. HUGO. A TV in the background discusses vampiric integration."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 4,
+    "title": "The Attack",
+    "location": "INT./EXT. GAS STATION \u2013 NIGHT",
+    "characters": [
+      "Jai",
+      "V-Head #1",
+      "V-Head #2",
+      "Unknown Vampire"
+    ],
+    "keywords": [
+      "vampire attack",
+      "first encounter",
+      "mystery",
+      "shock"
+    ],
+    "text": "A vampire attacks outside the gas station. V-HEAD #2 is fed on, the vampire disappears, and Jai is left in shock."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 5,
+    "title": "Sheriff Arrives",
+    "location": "EXT. GAS STATION \u2013 MOMENTS LATER",
+    "characters": [
+      "Sheriff Darius"
+    ],
+    "keywords": [
+      "investigation",
+      "no evidence",
+      "cover-up",
+      "mystery"
+    ],
+    "text": "SHERIFF DARIUS arrives and finds no sign of struggle or victim, only wind."
+  },
+  {
+    "type": "Scene",
+    "scene_number": 6,
+    "title": "Ebony Transforms",
+    "location": "EXT. HOSPITAL PARKING LOT \u2013 NIGHT",
+    "characters": [
+      "Ebony"
+    ],
+    "keywords": [
+      "transformation",
+      "double life",
+      "duality",
+      "sex work"
+    ],
+    "text": "EBONY transitions from nurse to dancer, prepping her gear in the hospital parking lot."
+  }
+]
